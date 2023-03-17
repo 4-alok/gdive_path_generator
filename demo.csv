@@ -1,0 +1,5 @@
+Path,Name,Type,Date,URL,Last Updated,Description,Size,Owner Email
+My Drive/Folder1,Folder1,Folder,2022-01-01 10:00:00,https://drive.google.com/drive/folders/abc123,2022-01-01 11:00:00,This is a test folder,,user1@example.com
+My Drive/Folder1/File1.txt,File1.txt,text/plain,2022-01-01 10:10:00,https://drive.google.com/file/d/def456/view?usp=drive_web,2022-01-01 11:20:00,This is a test file,1024,user1@example.com
+My Drive/Folder1/Folder2,Folder2,Folder,2022-01-02 09:00:00,https://drive.google.com/drive/folders/ghi789,2022-01-02 10:00:00,This is another test folder,,user2@example.com
+My Drive/Folder1/Folder2/File2.jpg,File2.jpg,image/jpeg,2022-01-02 09:10:00,https://drive.google.com/file/d/jkl012/view?usp=drive_web,2022-01-02 10:20:00,,2048,user2@example.com
